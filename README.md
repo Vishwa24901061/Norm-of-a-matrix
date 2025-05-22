@@ -71,7 +71,7 @@ mat=np.array(eval(input()))
 ans= np.linalg.norm(mat,np.inf)
 Norm_of_matrix=f"{ans:.2f}"
 print(Norm_of_matrix)
-```
+
 ```
 ## Output:
 ### 1-Norm of a Matrix
